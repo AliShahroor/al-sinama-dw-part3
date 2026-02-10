@@ -24,7 +24,6 @@ Quick start
 
    python answer_queries.py
 
-If you want a different or expanded README, tell me what to include and I'll update it.
 # Midterm Project Part 3: Advanced Queries and Synthetic Data
 
 **Author**: Ali Shahroor - 210034060  
