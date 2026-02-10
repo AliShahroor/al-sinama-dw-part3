@@ -1,8 +1,6 @@
 # Al-Sinema DW — Midterm Project (Part 3)
 
-Minimal repository for the data-generation and query code used in the midterm.
-
-Simple contents
+content available:
 - `create_schema_revised.sql` — revised star schema
 - `generate_data.py` — synthetic data generator (1.1M rows)
 - `queries.sql` — SQL for Q11–Q18
