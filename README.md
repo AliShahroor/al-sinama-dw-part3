@@ -24,10 +24,6 @@ Quick start
 
    python answer_queries.py
 
-Notes
-- Do NOT upload `report.tex` or screenshots to this repo — they belong in the Overleaf PDF submission.
-- The generator and query scripts expect a PostgreSQL instance (default: host=localhost, port=5432, dbname=al_sinama_dw, user=admin, password=admin123). Adjust connection settings in the scripts if needed.
-
 If you want a different or expanded README, tell me what to include and I'll update it.
 # Midterm Project Part 3: Advanced Queries and Synthetic Data
 
