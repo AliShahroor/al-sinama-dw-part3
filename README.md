@@ -5,7 +5,6 @@ content available:
 - `generate_data.py` — synthetic data generator (1.1M rows)
 - `queries.sql` — SQL for Q11–Q18
 - `answer_queries.py` — runs queries and exports CSVs
-- `.gitignore` — excludes report/screenshot and other artifacts
 
 Quick start
 1. Create and activate a virtual environment:
